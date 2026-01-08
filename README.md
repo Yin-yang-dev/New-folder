@@ -9,3 +9,4 @@ this is a repo made to practice the following things
 - pushing code to a remote repo pulling
 - code handling
 - and more
+- reverting code
