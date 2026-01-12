@@ -10,3 +10,5 @@ print("remote end")
 
 print("local end")
 print("I forgor")
+
+print("Hey Glen...did you know that Bennett wastes a lot of time putting dumb stuff in my meeting chat?")
